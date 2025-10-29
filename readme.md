@@ -13,6 +13,10 @@ The primary goal of this demo is to illustrate how a versatile AI agent like `ge
 
 This transformation enables the AI to act as an "equity research analyst," providing in-depth reports and investment insights.
 
+## Screenshots
+
+<img src="analyzing.png" ></img>
+
 ## Architecture
 
 The system's architecture is centered around the `gemini-cli` agent, which orchestrates tasks by interacting with external MCP servers and following a predefined analytical workflow.
